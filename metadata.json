@@ -1,0 +1,6 @@
+{
+  "name": "ActiPerm",
+  "description": "ActiPerm - Aplikasi cek izin dan bersihkan HP, oleh Yaudah iya",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
